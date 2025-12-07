@@ -1,0 +1,19 @@
+{
+  "type": "imageframe:url_static",
+  "index": 2,
+  "name": "Cerebro",
+  "url": "https://i.pinimg.com/222x/63/0d/ac/630dac7828755c90ec651d252f69ba67.jpg",
+  "width": 1,
+  "height": 1,
+  "ditheringType": "nearest-color",
+  "creator": "cc87c641-6c3b-3200-8ebc-585e92243fc1",
+  "hasAccess": {},
+  "creationTime": 1765133307957,
+  "mapdata": [
+    {
+      "mapid": 8,
+      "image": "0.png",
+      "markers": []
+    }
+  ]
+}

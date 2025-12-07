@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.193.148.193
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1765132538037
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+  login: 1765131218554
+money: '0'
+last-account-name: aguamoiada
+lastlocation:
+  world: 7d9f3214-28e3-4681-ace5-53676a361b31
+  world-name: world
+  x: 7.0623262817277785
+  y: 71.0
+  z: -16.83960620731986
+  yaw: -164.25006103515625
+  pitch: 11.550013542175293

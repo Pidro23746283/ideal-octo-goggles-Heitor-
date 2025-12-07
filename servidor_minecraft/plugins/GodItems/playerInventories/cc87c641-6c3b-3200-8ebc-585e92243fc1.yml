@@ -1,0 +1,24 @@
+armor:
+  offhand:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: AIR
+    amount: 0
+charms: {}
+contents:
+  slot_0:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STONE_SWORD
+  slot_1:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STONE_PICKAXE
+  slot_2:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STONE_AXE
+  slot_3:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STONE_SHOVEL

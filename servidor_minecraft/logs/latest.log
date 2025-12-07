@@ -1,0 +1,582 @@
+[18:09:43] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[18:09:43] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[18:09:43] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:09:46] [ServerMain/INFO]: [PluginInitializerManager] Initialized 19 plugins
+[18:09:46] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - SuperEnchants (3.2.0.1)
+[18:09:46] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (18):
+ - BackpackPlus (2.0.1), Chunky (1.4.40), ClearLag (1.6.16), DynamicLight (${project.version}), Essentials (2.22.0-dev+47-faa02b5), EssentialsSpawn (2.22.0-dev+47-faa02b5), GodItems (3.0.1), ImageFrame (1.8.7.5), LuckPerms (5.5.20), MagicItems (1.2), MiniMobs (1.5), Named-Villagers (1.2), PlayerParticles (8.11), SkinsRestorer (15.9.0), WeaponMaster (1.11.0), fast-leaf-decay (2.0.0), villagerinfinitetrading (1.0), visual-crafting (1.4.8)
+[18:09:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blindness' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HealthSteal' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bleed' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightning' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Teleport' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Jetpack' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Explosive' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Excavator' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Autosmelt' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Freeze' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Confusion' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Multishoot' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dash' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bloodlust' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Shockwave' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Veinminer' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'XPBoost' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enlightened' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enderaura' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Frostbite' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Leap' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Speed' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Magnet' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Growth' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Detonate' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Backstabber' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Piercing' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Deflecting' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bait' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Angler' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Abiding' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Disarm' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Archer' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Farmer' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Decapitation' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dismantle' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Famine' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Spotlight' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Feast' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Updraft' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lavawalker' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Doublestrike' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Timber' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Missile' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Critical' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Inflame' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Nightowl' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Headshot' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Arrowstorm' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Hook' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Gravity' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Adrenaline' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Resilience' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Coward' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Weaken' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Withering' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Heavy' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightweight' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blastoff' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Flippers' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Harvester' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'DragonHunter' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Ascend' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HellHunter' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Cubism' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Vanish' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dodge' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Predator' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Slaughter' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'SkullCrusher' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Ninja' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Thanos' registered successfully.
+[18:09:53] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Consume' registered successfully.
+[18:09:54] [ServerMain/INFO]: Loaded 1290 recipes
+[18:09:54] [ServerMain/INFO]: Loaded 1399 advancements
+[18:09:54] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:09:54] [Server thread/INFO]: Loading properties
+[18:09:54] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[18:09:54] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:09:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:09:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:09:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[18:09:55] [Server thread/INFO]: Default game type: SURVIVAL
+[18:09:55] [Server thread/INFO]: Generating keypair
+[18:09:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:09:55] [Server thread/INFO]: Using epoll channel type
+[18:09:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:09:55] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[18:09:55] [Server thread/INFO]: [SpigotLibraryLoader] [ClearLag] Loading 1 libraries... please wait
+[18:09:55] [Server thread/INFO]: [SpigotLibraryLoader] [ClearLag] Loaded library /workspaces/ideal-octo-goggles-Heitor-/servidor_minecraft/libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+[18:09:56] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loading 4 libraries... please wait
+[18:09:57] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/ideal-octo-goggles-Heitor-/servidor_minecraft/libraries/com/zaxxer/HikariCP/7.0.2/HikariCP-7.0.2.jar
+[18:09:57] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/ideal-octo-goggles-Heitor-/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar
+[18:09:57] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/ideal-octo-goggles-Heitor-/servidor_minecraft/libraries/com/mysql/mysql-connector-j/9.4.0/mysql-connector-j-9.4.0.jar
+[18:09:57] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/ideal-octo-goggles-Heitor-/servidor_minecraft/libraries/com/google/protobuf/protobuf-java/4.31.1/protobuf-java-4.31.1.jar
+[18:09:57] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/ideal-octo-goggles-Heitor-/servidor_minecraft/libraries/org/xerial/sqlite-jdbc/3.50.3.0/sqlite-jdbc-3.50.3.0.jar
+[18:09:57] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/ideal-octo-goggles-Heitor-/servidor_minecraft/libraries/org/postgresql/postgresql/42.7.7/postgresql-42.7.7.jar
+[18:09:57] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/ideal-octo-goggles-Heitor-/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.49.3/checker-qual-3.49.3.jar
+[18:09:57] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.20
+[18:09:58] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[18:09:58] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+47-faa02b5
+[18:09:58] [Server thread/INFO]: [villagerinfinitetrading] Loading server plugin villagerinfinitetrading v1.0
+[18:09:58] [Server thread/INFO]: [DynamicLight] Loading server plugin DynamicLight v${project.version}
+[18:09:58] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v1.6.16
+[18:09:58] [Server thread/INFO]: [Visual Crafting] Loading server plugin visual-crafting v1.4.8
+[18:09:58] [Server thread/INFO]: [fast-leaf-decay] Loading server plugin fast-leaf-decay v2.0.0
+[18:09:58] [Server thread/INFO]: [Named-Villagers] Loading server plugin Named-Villagers v1.2
+[18:09:58] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.22.0-dev+47-faa02b5
+[18:09:58] [Server thread/INFO]: [SuperEnchants] Loading server plugin SuperEnchants v3.2.0.1
+[18:09:58] [Server thread/INFO]: [ImageFrame] Loading server plugin ImageFrame v1.8.7.5
+[18:09:58] [Server thread/INFO]: [GodItems] Loading server plugin GodItems v3.0.1
+[18:09:58] [Server thread/INFO]: [GodItems] Optional dependency WorldGuard not found. WorldGuard related features will not work.
+[18:09:58] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.9.0
+[18:09:58] [Server thread/INFO]: [PlayerParticles] Loading server plugin PlayerParticles v8.11
+[18:09:58] [Server thread/INFO]: [WeaponMaster] Loading server plugin WeaponMaster v1.11.0
+[18:09:58] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[18:09:58] [Server thread/INFO]: [BackpackPlus] Loading server plugin BackpackPlus v2.0.1
+[18:09:58] [Server thread/INFO]: [MiniMobs] Loading server plugin MiniMobs v1.5
+[18:09:58] [Server thread/INFO]: [MagicItems] Loading server plugin MagicItems v1.2
+[18:09:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:09:58] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.20
+[18:09:59] [Server thread/INFO]:         __    
+[18:09:59] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.20
+[18:09:59] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[18:09:59] [Server thread/INFO]: 
+[18:09:59] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[18:09:59] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[18:10:00] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[18:10:00] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1559ms)
+[18:10:00] [Server thread/INFO]: [Named-Villagers] Enabling Named-Villagers v1.2
+[18:10:00] [Server thread/INFO]: [Named-Villagers] The config is updated!
+[18:10:00] [Server thread/INFO]: [Named-Villagers] Loaded 3506 male names and 7247 female names.
+[18:10:00] [Server thread/INFO]: [Named-Villagers] Total: 10753
+[18:10:00] [Server thread/INFO]: [Named-Villagers] Enabled Named-Villagers!
+[18:10:00] [Server thread/INFO]: [SuperEnchants] Enabling SuperEnchants v3.2.0.1
+[18:10:00] [Server thread/INFO]: [SuperEnchants] Loading SuperEnchants v3.2.0.1 by Aznos
+[18:10:00] [Server thread/INFO]: [SuperEnchants] -------------------------------------
+[18:10:00] [Server thread/INFO]: [SuperEnchants] If you'd like to support SuperEnchants and you find it useful, please consider donating at: https://buymeacoffee.com/aznos
+[18:10:00] [Server thread/INFO]: [SuperEnchants] -------------------------------------
+[18:10:00] [Server thread/WARN]: [SuperEnchants] Could not save lang_en.yml to plugins/SuperEnchants/lang_en.yml because lang_en.yml already exists.
+[18:10:00] [Server thread/WARN]: [SuperEnchants] Could not save lang_de.yml to plugins/SuperEnchants/lang_de.yml because lang_de.yml already exists.
+[18:10:00] [Server thread/WARN]: [SuperEnchants] Could not save lang_pt.yml to plugins/SuperEnchants/lang_pt.yml because lang_pt.yml already exists.
+[18:10:00] [Server thread/WARN]: [SuperEnchants] Could not save lang_es.yml to plugins/SuperEnchants/lang_es.yml because lang_es.yml already exists.
+[18:10:00] [Server thread/WARN]: [SuperEnchants] Could not save lang_fr.yml to plugins/SuperEnchants/lang_fr.yml because lang_fr.yml already exists.
+[18:10:00] [Server thread/WARN]: [SuperEnchants] Could not save lang_nl.yml to plugins/SuperEnchants/lang_nl.yml because lang_nl.yml already exists.
+[18:10:00] [Server thread/WARN]: [SuperEnchants] Could not save lang_ru.yml to plugins/SuperEnchants/lang_ru.yml because lang_ru.yml already exists.
+[18:10:00] [Server thread/WARN]: [SuperEnchants] Could not save lang_pirate.yml to plugins/SuperEnchants/lang_pirate.yml because lang_pirate.yml already exists.
+[18:10:00] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.0
+[18:10:02] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[18:10:04] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[18:10:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:10:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:10:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:10:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:10:04] [Server thread/INFO]: Preparing level "world"
+[18:10:04] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:10:04] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[18:10:04] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[18:10:04] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[18:10:04] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[18:10:04] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[18:10:04] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:10:04] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.9.0
+[18:10:04] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: 1565b8f
+[18:10:04] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[18:10:04] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:10:04] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[18:10:04] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[18:10:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:10:05] [Server thread/INFO]: Time elapsed: 1147 ms
+[18:10:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:10:06] [Server thread/INFO]: Time elapsed: 371 ms
+[18:10:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:10:06] [Server thread/INFO]: Time elapsed: 284 ms
+[18:10:06] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+47-faa02b5
+[18:10:07] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[18:10:08] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[18:10:08] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[18:10:08] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[18:10:08] [Server thread/INFO]: [Essentials] Found 1 files to convert...
+[18:10:08] [Server thread/INFO]: [Essentials] Converted 0/1
+[18:10:08] [Server thread/INFO]: [Essentials] Ban format update complete.
+[18:10:08] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[18:10:08] [Server thread/INFO]: [Essentials] Done converting ignore list.
+[18:10:08] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[18:10:08] [Server thread/INFO]: [Essentials] Done converting legacy userdata keys to Configurate.
+[18:10:08] [Server thread/INFO]: [Essentials] Done converting mail list.
+[18:10:08] [Server thread/INFO]: [Essentials] #===========================================================================#
+[18:10:08] [Server thread/INFO]: [Essentials]  EssentialsX will now purge any NPC accounts which were incorrectly created.
+[18:10:08] [Server thread/INFO]: [Essentials]  Only NPC accounts with the default starting balance will be deleted. If
+[18:10:08] [Server thread/INFO]: [Essentials]  they turn out to be valid NPC accounts, they will be re-created as needed.
+[18:10:08] [Server thread/INFO]: [Essentials]  Any files deleted here will be backed up to the 
+[18:10:08] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
+[18:10:08] [Server thread/INFO]: [Essentials]  have been purged incorrectly, you should restore it from the backup and
+[18:10:08] [Server thread/INFO]: [Essentials]  report it to us on GitHub:
+[18:10:08] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[18:10:08] [Server thread/INFO]: [Essentials] 
+[18:10:08] [Server thread/INFO]: [Essentials]  NOTE: This is a one-time process and will take several minutes if you have
+[18:10:08] [Server thread/INFO]: [Essentials]  a lot of userdata files! If you interrupt this process, EssentialsX will
+[18:10:08] [Server thread/INFO]: [Essentials]  skip the process until you rename or remove the backup folder.
+[18:10:08] [Server thread/INFO]: [Essentials] #===========================================================================#
+[18:10:08] [Server thread/INFO]: [Essentials] Found ~1 files under "plugins/Essentials/userdata"...
+[18:10:08] [Server thread/INFO]: [Essentials] #===========================================================================#
+[18:10:08] [Server thread/INFO]: [Essentials]  EssentialsX has finished purging NPC accounts.
+[18:10:08] [Server thread/INFO]: [Essentials] 
+[18:10:08] [Server thread/INFO]: [Essentials]  Deleted accounts: 0
+[18:10:08] [Server thread/INFO]: [Essentials]  Total accounts processed: 1
+[18:10:08] [Server thread/INFO]: [Essentials] 
+[18:10:08] [Server thread/INFO]: [Essentials]  Purged accounts have been backed up to
+[18:10:08] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup", and can be restored from there
+[18:10:08] [Server thread/INFO]: [Essentials]  if needed. Please report any files which have been incorrectly deleted
+[18:10:08] [Server thread/INFO]: [Essentials]  to us on GitHub:
+[18:10:08] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[18:10:08] [Server thread/INFO]: [Essentials] #===========================================================================#
+[18:10:08] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[18:10:08] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[18:10:09] [Server thread/INFO]: [Essentials] Loaded 45989 items from items.json.
+[18:10:09] [Server thread/INFO]: [Essentials] Using locale en
+[18:10:09] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[18:10:10] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[18:10:10] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[18:10:10] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[18:10:10] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[18:10:10] [Server thread/INFO]: [villagerinfinitetrading] Enabling villagerinfinitetrading v1.0
+[18:10:10] [Server thread/INFO]: [villagerinfinitetrading] InfiniteVillagerTrades enabled!
+[18:10:10] [Server thread/INFO]: [DynamicLight] Enabling DynamicLight v${project.version}
+[18:10:10] [Server thread/INFO]: [DynamicLight] Loaded 21 items with light levels.
+[18:10:10] [Server thread/INFO]: [DynamicLight] DynamicLight has been enabled!
+[18:10:10] [Server thread/INFO]: [ClearLag] Enabling ClearLag v1.6.16
+[18:10:10] [Server thread/WARN]: [ClearLag] Luckperms detected! Running in advanced permission mode.
+[18:10:10] [Server thread/WARN]: [ClearLag] PlaceholderAPI not found! ClearLag placeholders will not work.
+[18:10:10] [Server thread/INFO]: [Visual Crafting] Enabling visual-crafting v1.4.8
+[18:10:10] [Server thread/INFO]: [Visual Crafting] Visual Crafting was enabled!
+[18:10:10] [Server thread/INFO]: [Visual Crafting] Using version adapter 'VersionAdapter21R1' and controller 'DisplayVisualizationController'
+[18:10:10] [Server thread/INFO]: [fast-leaf-decay] Enabling fast-leaf-decay v2.0.0
+[18:10:10] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.22.0-dev+47-faa02b5
+[18:10:10] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[18:10:10] [Server thread/INFO]: [ImageFrame] Enabling ImageFrame v1.8.7.5
+[18:10:15] [Server thread/INFO]: [ImageFrame] Registered ImageMapLoader imageframe:url_static
+[18:10:15] [Server thread/INFO]: [ImageFrame] Registered ImageMapLoader imageframe:url_animated
+[18:10:15] [Server thread/INFO]: [ImageFrame] Registered ImageMapLoader imageframe:url_static_overlay
+[18:10:15] [Server thread/INFO]: [ImageFrame] Registered ImageMapLoader imageframe:non_updatable_static
+[18:10:15] [Server thread/INFO]: [ImageFrame] Registered MediaLoader imageframe:gif_reader to ImageMapLoader imageframe:url_animated
+[18:10:15] [Server thread/INFO]: [ImageFrame] Registered MediaLoader imageframe:imageio to ImageMapLoader imageframe:url_static
+[18:10:15] [Server thread/INFO]: [ImageFrame] Registered MediaLoader imageframe:imageio to ImageMapLoader imageframe:url_static_overlay
+[18:10:15] [Server thread/INFO]: [ImageFrame] ImageFrame has been Enabled!
+[18:10:15] [Server thread/INFO]: [GodItems] Enabling GodItems v3.0.1
+[18:10:15] [Server thread/INFO]: [GodItems] Made by MitromniZ and Cros_bow
+[18:10:15] [Server thread/INFO]: [GodItems] The texture pack is only available if you download the plugin from our patreon page
+[18:10:15] [Server thread/INFO]: [PlayerParticles] Enabling PlayerParticles v8.11
+[18:10:16] [Server thread/INFO]: [PlayerParticles] Data handler connected using SQLite.
+[18:10:16] [Server thread/INFO]: [WeaponMaster] Enabling WeaponMaster v1.11.0
+[18:10:16] [Server thread/INFO]: [WeaponMaster] --------------------
+[18:10:16] [Server thread/INFO]: [WeaponMaster] #######################################################################################################################
+[18:10:16] [Server thread/INFO]: [WeaponMaster] # ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ #
+[18:10:16] [Server thread/INFO]: [WeaponMaster] #▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌#
+[18:10:16] [Server thread/INFO]: [WeaponMaster] #▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀█░█▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀█░█▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀ #
+[18:10:16] [Server thread/INFO]: [WeaponMaster] #▐░▌          ▐░▌       ▐░▌▐░▌          ▐░▌       ▐░▌     ▐░▌     ▐░▌          ▐░▌       ▐░▌     ▐░▌     ▐░▌          #
+[18:10:16] [Server thread/INFO]: [WeaponMaster] #▐░▌ ▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌     ▐░▌     ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌     ▐░▌     ▐░▌          #
+[18:10:16] [Server thread/INFO]: [WeaponMaster] #▐░▌▐░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░▌          #
+[18:10:16] [Server thread/INFO]: [WeaponMaster] #▐░▌ ▀▀▀▀▀▀█░▌▐░█▀▀▀▀█░█▀▀ ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌     ▐░▌     ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀█░█▀▀      ▐░▌     ▐░▌          #
+[18:10:16] [Server thread/INFO]: [WeaponMaster] #▐░▌       ▐░▌▐░▌     ▐░▌  ▐░▌          ▐░▌       ▐░▌     ▐░▌     ▐░▌          ▐░▌     ▐░▌       ▐░▌     ▐░▌          #
+[18:10:16] [Server thread/INFO]: [WeaponMaster] #▐░█▄▄▄▄▄▄▄█░▌▐░▌      ▐░▌ ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌       ▐░▌     ▐░▌     ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌      ▐░▌  ▄▄▄▄█░█▄▄▄▄ ▐░█▄▄▄▄▄▄▄▄▄ #
+[18:10:16] [Server thread/INFO]: [WeaponMaster] #▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌     ▐░▌     ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌#
+[18:10:16] [Server thread/INFO]: [WeaponMaster] # ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀       ▀       ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ #
+[18:10:16] [Server thread/INFO]: [WeaponMaster] #######################################################################################################################
+[18:10:16] [Server thread/INFO]: [WeaponMaster] 
+[18:10:16] [Server thread/INFO]: [WeaponMaster] WeaponMaster
+[18:10:16] [Server thread/INFO]: [WeaponMaster] 
+[18:10:16] [Server thread/INFO]: [WeaponMaster] Copyright (C) greateric 2021-present. Licensed under GPL v3.
+[18:10:16] [Server thread/INFO]: [WeaponMaster] Initializing WeaponMaster by greateric
+[18:10:16] [Server thread/INFO]: [WeaponMaster] --------------------
+[18:10:16] [Server thread/INFO]: [WeaponMaster] Finished setting up! [343 ms]
+[18:10:16] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[18:10:17] [Server thread/INFO]: [BackpackPlus] Enabling BackpackPlus v2.0.1
+[18:10:17] [Server thread/INFO]: [BackpackPlus] [Pack] No update needed; current readme is up to date.
+[18:10:17] [Server thread/INFO]: [BackpackPlus] [Settings] Configuration loaded successfully. No missing fields detected.
+[18:10:17] [Server thread/INFO]: [BackpackPlus] [Database] Configuration loaded successfully. No missing fields detected.
+[18:10:17] [Server thread/INFO]: [BackpackPlus] [Database] SQLite Successfully connected to database
+[18:10:17] [Server thread/INFO]: [BackpackPlus] Tables and indexes created successfully.
+[18:10:17] [Server thread/INFO]: [BackpackPlus] Language used: eng
+[18:10:17] [Server thread/INFO]: [BackpackPlus] Plugin initialized successfully.
+[18:10:17] [Server thread/INFO]: [MiniMobs] Enabling MiniMobs v1.5
+[18:10:17] [Server thread/INFO]: 
+[18:10:17] [Server thread/INFO]:   __  __ _       _ __  __       _         
+[18:10:17] [Server thread/INFO]:  |  \/  (_)_ __ (_)  \/  | ___ | |__  ___ 
+[18:10:17] [Server thread/INFO]:  | |\/| | | '_ \| | |\/| |/ _ \| '_ \/ __|
+[18:10:17] [Server thread/INFO]:  | |  | | | | | | | |  | | (_) | |_) \__ \
+[18:10:17] [Server thread/INFO]:  |_|  |_|_|_| |_|_|_|  |_|\___/|_.__/|___/
+[18:10:17] [Server thread/INFO]: 
+[18:10:17] [Server thread/INFO]:    Created by: [Technik15931]
+[18:10:17] [Server thread/INFO]:    Version: 1.5
+[18:10:17] [Server thread/INFO]: 
+[18:10:17] [Server thread/INFO]: [MagicItems] Enabling MagicItems v1.2
+[18:10:17] [Server thread/INFO]: [MagicItems] All names loaded!
+[18:10:17] [Server thread/INFO]: [MagicItems] If any warnings showed up, you could try to delete the config.yml file so new one could generate.
+[18:10:17] [Server thread/INFO]: [MagicItems] Hello from magic items!
+[18:10:17] [Server thread/INFO]: [spark] Starting background profiler...
+[18:10:18] [Server thread/INFO]: Done preparing level "world" (14.480s)
+[18:10:18] [Server thread/INFO]: Running delayed init tasks
+[18:10:19] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[18:10:19] [Craft Scheduler Thread - 6 - ImageFrame/INFO]: [ImageFrame] Data loading completed! Loaded 0 ImageMaps!
+[18:10:19] [Craft Scheduler Thread - 2 - ClearLag/INFO]: [ClearLag] You are running the latest version (1.6.16).
+[18:10:19] [Craft Scheduler Thread - 0 - BackpackPlus/INFO]: =============================[BackpackPlus]=============================
+[18:10:19] [Craft Scheduler Thread - 0 - BackpackPlus/INFO]: The plugin is up to date: (RELEASE 2.0.1)
+[18:10:19] [Craft Scheduler Thread - 0 - BackpackPlus/INFO]: =============================[BackpackPlus]=============================
+[18:10:19] [Server thread/INFO]: Done (38.789s)! For help, type "help"
+[18:10:19] [Server thread/INFO]: Timings Reset
+[18:10:47] [User Authenticator #0/INFO]: UUID of player robeeert7385 is cc87c641-6c3b-3200-8ebc-585e92243fc1
+[18:10:49] [Server thread/INFO]: robeeert7385 joined the game
+[18:10:49] [Server thread/INFO]: robeeert7385[/127.175.126.254:52003] logged in with entity id 26 at ([world]0.5, 69.0, 0.5)
+[18:11:09] [Server thread/INFO]: robeeert7385 issued server command: /pp
+[18:11:09] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:12:27] [Server thread/INFO]: robeeert7385 issued server command: /tps
+[18:13:36] [User Authenticator #1/INFO]: UUID of player aguamoiada is 09798e3d-0a63-3b42-b2f6-6cebd163b83e
+[18:13:38] [Server thread/INFO]: aguamoiada joined the game
+[18:13:38] [Server thread/INFO]: aguamoiada[/127.193.148.193:50299] logged in with entity id 940 at ([world]3.5, 71.0, 7.5)
+[18:13:38] [Server thread/INFO]: aguamoiada has made the advancement [Getting an Upgrade]
+[18:14:00] [Server thread/INFO]: robeeert7385 issued server command: /skin
+[18:14:06] [Async Chat Thread - #0/INFO]: [Not Secure] <robeeert7385> e/skin
+[18:14:26] [Server thread/INFO]: aguamoiada issued server command: /skin
+[18:14:42] [Server thread/INFO]: robeeert7385 issued server command: /skin
+[18:14:46] [Server thread/INFO]: robeeert7385 issued server command: /skins
+[18:14:52] [Server thread/INFO]: aguamoiada issued server command: /skins
+[18:14:53] [Server thread/INFO]: robeeert7385 issued server command: /skins
+[18:15:03] [Server thread/INFO]: robeeert7385 issued server command: /skins
+[18:15:15] [Server thread/INFO]: robeeert7385 issued server command: /skins
+[18:15:18] [Server thread/WARN]: [WeaponMaster] Task #49 for WeaponMaster v1.11.0 generated an exception
+java.lang.IllegalArgumentException: Invalid UUID string: minecraft:base_attack_speed
+	at java.base/java.util.UUID.fromString1(UUID.java:282) ~[?:?]
+	at java.base/java.util.UUID.fromString(UUID.java:260) ~[?:?]
+	at org.bukkit.attribute.AttributeModifier.getUniqueId(AttributeModifier.java:74) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger.searchExistingAM(AttributeChanger.java:49) ~[weaponmaster-1.11.0.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger.updateAttributes(AttributeChanger.java:60) ~[weaponmaster-1.11.0.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger$1.run(AttributeChanger.java:96) ~[weaponmaster-1.11.0.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:15:50] [Server thread/INFO]: robeeert7385 issued server command: /time set day
+[18:17:11] [Server thread/INFO]: robeeert7385 issued server command: /gamerule keepInventory true
+[18:17:11] [Server thread/INFO]: [robeeert7385: Gamerule keepInventory is now set to: true]
+[18:17:30] [Server thread/INFO]: robeeert7385 issued server command: /tpa robeeert7385
+[18:21:12] [Server thread/INFO]: robeeert7385 has made the advancement [Stone Age]
+[18:21:14] [Server thread/INFO]: aguamoiada has made the advancement [Stone Age]
+[18:24:16] [Server thread/WARN]: robeeert7385 moved too quickly! 9.218713814300173,1.1661092609382138,3.850498472649832
+[18:24:48] [Server thread/INFO]: robeeert7385 issued server command: /pp
+[18:25:18] [Server thread/WARN]: [WeaponMaster] Task #49 for WeaponMaster v1.11.0 generated an exception
+java.lang.IllegalArgumentException: Invalid UUID string: minecraft:base_attack_speed
+	at java.base/java.util.UUID.fromString1(UUID.java:282) ~[?:?]
+	at java.base/java.util.UUID.fromString(UUID.java:260) ~[?:?]
+	at org.bukkit.attribute.AttributeModifier.getUniqueId(AttributeModifier.java:74) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger.searchExistingAM(AttributeChanger.java:49) ~[weaponmaster-1.11.0.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger.updateAttributes(AttributeChanger.java:60) ~[weaponmaster-1.11.0.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger$1.run(AttributeChanger.java:96) ~[weaponmaster-1.11.0.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:25:18] [Server thread/INFO]: robeeert7385 issued server command: /pp
+[18:26:33] [Server thread/INFO]: aguamoiada has made the advancement [Sweet Dreams]
+[18:27:47] [Server thread/INFO]: robeeert7385 issued server command: /gamemode spectator
+[18:27:57] [Server thread/INFO]: aguamoiada issued server command: /gamemode spectator
+[18:27:57] [Server thread/INFO]: [Essentials] aguamoiada was denied access to command.
+[18:28:40] [Server thread/INFO]: robeeert7385 issued server command: /gamemode survival
+[18:28:44] [Server thread/INFO]: robeeert7385 issued server command: /luckperms
+[18:28:53] [Server thread/INFO]: robeeert7385 issued server command: /luckperms editor
+[18:30:02] [Server thread/INFO]: robeeert7385 issued server command: /luckperms applyedits cH00lrkP6N
+[18:30:03] [luckperms-command-executor/INFO]: [LP] LOG > (robeeert7385) [G] (default)
+[18:30:03] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.gamemode.spectator true
+[18:30:03] [luckperms-command-executor/INFO]: [LP] LOG > (robeeert7385) [G] (default)
+[18:30:03] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.gamemode.survival true
+[18:30:18] [Server thread/WARN]: [WeaponMaster] Task #49 for WeaponMaster v1.11.0 generated an exception
+java.lang.IllegalArgumentException: Invalid UUID string: minecraft:base_attack_speed
+	at java.base/java.util.UUID.fromString1(UUID.java:282) ~[?:?]
+	at java.base/java.util.UUID.fromString(UUID.java:260) ~[?:?]
+	at org.bukkit.attribute.AttributeModifier.getUniqueId(AttributeModifier.java:74) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger.searchExistingAM(AttributeChanger.java:49) ~[weaponmaster-1.11.0.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger.updateAttributes(AttributeChanger.java:60) ~[weaponmaster-1.11.0.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger$1.run(AttributeChanger.java:96) ~[weaponmaster-1.11.0.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:31:38] [Server thread/INFO]: robeeert7385 issued server command: /gamemode spectator
+[18:31:57] [Server thread/INFO]: robeeert7385 issued server command: /gamemode survival
+[18:35:00] [Server thread/INFO]: aguamoiada was slain by robeeert7385
+[18:35:18] [Server thread/WARN]: [WeaponMaster] Task #49 for WeaponMaster v1.11.0 generated an exception
+java.lang.IllegalArgumentException: Invalid UUID string: minecraft:base_attack_speed
+	at java.base/java.util.UUID.fromString1(UUID.java:282) ~[?:?]
+	at java.base/java.util.UUID.fromString(UUID.java:260) ~[?:?]
+	at org.bukkit.attribute.AttributeModifier.getUniqueId(AttributeModifier.java:74) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger.searchExistingAM(AttributeChanger.java:49) ~[weaponmaster-1.11.0.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger.updateAttributes(AttributeChanger.java:60) ~[weaponmaster-1.11.0.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger$1.run(AttributeChanger.java:96) ~[weaponmaster-1.11.0.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:35:31] [Server thread/INFO]: aguamoiada issued server command: /tpa robeeert7385
+[18:35:38] [Server thread/INFO]: robeeert7385 issued server command: /tpaccept
+[18:36:34] [Server thread/INFO]: robeeert7385 issued server command: /gamemode spectator
+[18:36:38] [Server thread/INFO]: robeeert7385 issued server command: /gamemode creative
+[18:37:35] [Server thread/INFO]: robeeert7385 has made the advancement [Sweet Dreams]
+[18:37:47] [Server thread/INFO]: robeeert7385 issued server command: /give robeeert7385 bread 64
+[18:37:50] [Server thread/INFO]: robeeert7385 issued server command: /gamemode survival
+[18:38:43] [Server thread/INFO]: robeeert7385 issued server command: /plugins
+[18:43:28] [Server thread/INFO]: robeeert7385 issued server command: /imageframe create Cabeça blob:https://web.whatsapp.com/f675a2ee-8b85-4f26-9368-145c6f00579d 1 2
+[18:43:45] [Server thread/INFO]: robeeert7385 issued server command: /if create cabeça blob:https://web.whatsapp.com/f675a2ee-8b85-4f26-9368-145c6f00579d 1 1
+[18:43:56] [Server thread/INFO]: robeeert7385 issued server command: /gamemode spectator aguamoiada
+[18:43:57] [Server thread/INFO]: aguamoiada issued server command: /gamemode spectator
+[18:43:57] [Server thread/INFO]: [Essentials] aguamoiada was denied access to command.
+[18:44:11] [Server thread/INFO]: robeeert7385 issued server command: /if create cabeça blob:https://web.whatsapp.com/f675a2ee-8b85-4f26-9368-145c6f00579d 2 1
+[18:44:18] [Server thread/INFO]: robeeert7385 issued server command: /gamemode creative
+[18:44:27] [Server thread/INFO]: robeeert7385 issued server command: /if create cabeça blob:https://web.whatsapp.com/f675a2ee-8b85-4f26-9368-145c6f00579d 1 2
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: java.io.IOException: Unable to download image. Make sure you are using a direct link to the image, they usually ends with a file extension like ".png". Dispatcher: robeeert7385 URL: blob:https://web.whatsapp.com/f675a2ee-8b85-4f26-9368-145c6f00579d
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.Commands.lambda$onCommand$7(Commands.java:310)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: Caused by: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: java.io.IOException: Unable to read or download media with ImageMapLoader imageframe:url_static, does this url directly links to the gif? (blob:https://web.whatsapp.com/f675a2ee-8b85-4f26-9368-145c6f00579d)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2073)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.Commands.lambda$onCommand$7(Commands.java:270)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	... 6 more
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: Caused by: java.util.concurrent.ExecutionException: java.io.IOException: Unable to read or download media with ImageMapLoader imageframe:url_static, does this url directly links to the gif? (blob:https://web.whatsapp.com/f675a2ee-8b85-4f26-9368-145c6f00579d)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2073)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.Commands.lambda$onCommand$4(Commands.java:268)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.objectholders.ImageMapCreationTask.run(ImageMapCreationTask.java:104)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	... 3 more
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: Caused by: java.io.IOException: Unable to read or download media with ImageMapLoader imageframe:url_static, does this url directly links to the gif? (blob:https://web.whatsapp.com/f675a2ee-8b85-4f26-9368-145c6f00579d)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.objectholders.ImageMapLoader.tryLoadMedia(ImageMapLoader.java:107)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.objectholders.URLStaticImageMap.update(URLStaticImageMap.java:119)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.objectholders.URLStaticImageMapLoader.lambda$create$2(URLStaticImageMapLoader.java:119)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.utils.FutureUtils.lambda$callAsyncMethod$1(FutureUtils.java:47)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	... 3 more
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	Suppressed: java.io.IOException: Unable to read or download media with MediaLoader imageframe:imageio
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.objectholders.ImageMapLoader.tryLoadMedia(ImageMapLoader.java:104)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		... 9 more
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	Caused by: java.net.MalformedURLException: unknown protocol: blob
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at java.base/java.net.URL.<init>(URL.java:779)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at java.base/java.net.URL.<init>(URL.java:654)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at java.base/java.net.URL.<init>(URL.java:590)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.utils.HTTPRequestUtils.getInputStream(HTTPRequestUtils.java:56)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.utils.HTTPRequestUtils.download(HTTPRequestUtils.java:66)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.media.ImageIOMediaLoader.tryLoad(ImageIOMediaLoader.java:49)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.objectholders.ImageMapLoader.tryLoadMedia(ImageMapLoader.java:101)
+[18:44:28] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		... 9 more
+[18:44:49] [Server thread/INFO]: robeeert7385 issued server command: /if create cab blob:https://web.whatsapp.com/f675a2ee-8b85-4f26-9368-145c6f00579d 1 1
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: java.io.IOException: Unable to download image. Make sure you are using a direct link to the image, they usually ends with a file extension like ".png". Dispatcher: robeeert7385 URL: blob:https://web.whatsapp.com/f675a2ee-8b85-4f26-9368-145c6f00579d
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.Commands.lambda$onCommand$7(Commands.java:310)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: Caused by: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: java.io.IOException: Unable to read or download media with ImageMapLoader imageframe:url_static, does this url directly links to the gif? (blob:https://web.whatsapp.com/f675a2ee-8b85-4f26-9368-145c6f00579d)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2073)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.Commands.lambda$onCommand$7(Commands.java:270)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	... 6 more
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: Caused by: java.util.concurrent.ExecutionException: java.io.IOException: Unable to read or download media with ImageMapLoader imageframe:url_static, does this url directly links to the gif? (blob:https://web.whatsapp.com/f675a2ee-8b85-4f26-9368-145c6f00579d)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2073)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.Commands.lambda$onCommand$4(Commands.java:268)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.objectholders.ImageMapCreationTask.run(ImageMapCreationTask.java:104)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	... 3 more
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: Caused by: java.io.IOException: Unable to read or download media with ImageMapLoader imageframe:url_static, does this url directly links to the gif? (blob:https://web.whatsapp.com/f675a2ee-8b85-4f26-9368-145c6f00579d)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.objectholders.ImageMapLoader.tryLoadMedia(ImageMapLoader.java:107)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.objectholders.URLStaticImageMap.update(URLStaticImageMap.java:119)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.objectholders.URLStaticImageMapLoader.lambda$create$2(URLStaticImageMapLoader.java:119)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.utils.FutureUtils.lambda$callAsyncMethod$1(FutureUtils.java:47)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	... 3 more
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	Suppressed: java.io.IOException: Unable to read or download media with MediaLoader imageframe:imageio
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.objectholders.ImageMapLoader.tryLoadMedia(ImageMapLoader.java:104)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		... 9 more
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 	Caused by: java.net.MalformedURLException: unknown protocol: blob
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at java.base/java.net.URL.<init>(URL.java:779)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at java.base/java.net.URL.<init>(URL.java:654)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at java.base/java.net.URL.<init>(URL.java:590)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.utils.HTTPRequestUtils.getInputStream(HTTPRequestUtils.java:56)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.utils.HTTPRequestUtils.download(HTTPRequestUtils.java:66)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.media.ImageIOMediaLoader.tryLoad(ImageIOMediaLoader.java:49)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		at ImageFrame-1.8.7.5.jar//com.loohp.imageframe.objectholders.ImageMapLoader.tryLoadMedia(ImageMapLoader.java:101)
+[18:44:49] [Craft Scheduler Thread - 77 - ImageFrame/WARN]: 		... 9 more
+[18:45:02] [Server thread/INFO]: robeeert7385 issued server command: /if info
+[18:45:09] [Server thread/INFO]: robeeert7385 issued server command: /gamemode survival aguamoiada
+[18:45:54] [Server thread/INFO]: robeeert7385 issued server command: /if create cabeça https://thumbs.dreamstime.com/b/opini%C3%A3o-do-close-up-o-rato-africano-curioso-da-grama-30169508.jpg 1 1
+[18:46:03] [Server thread/INFO]: robeeert7385 issued server command: /gamemode survival
+[18:46:33] [Server thread/INFO]: robeeert7385 issued server command: /if delete cabeça
+[18:46:49] [Server thread/INFO]: robeeert7385 issued server command: /gamemode creative
+[18:46:52] [Server thread/INFO]: robeeert7385 issued server command: /gamemode survival
+[18:46:57] [Server thread/INFO]: robeeert7385 issued server command: /gamemode creative
+[18:47:55] [Server thread/INFO]: robeeert7385 issued server command: /if create Pinky https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFywMP9FEA1FrNUbvpvENukAURDa2SVyueQ&s 1 1
+[18:48:27] [Server thread/INFO]: robeeert7385 issued server command: /if create Cerebro https://i.pinimg.com/222x/63/0d/ac/630dac7828755c90ec651d252f69ba67.jpg 1 1
+[18:48:39] [Server thread/INFO]: robeeert7385 issued server command: /gamemode survival
+[18:49:11] [Server thread/INFO]: robeeert7385 has made the advancement [Monster Hunter]
+[18:49:44] [Server thread/INFO]: aguamoiada has made the advancement [Monster Hunter]
+[18:50:18] [Server thread/WARN]: [WeaponMaster] Task #49 for WeaponMaster v1.11.0 generated an exception
+java.lang.IllegalArgumentException: Invalid UUID string: minecraft:base_attack_speed
+	at java.base/java.util.UUID.fromString1(UUID.java:282) ~[?:?]
+	at java.base/java.util.UUID.fromString(UUID.java:260) ~[?:?]
+	at org.bukkit.attribute.AttributeModifier.getUniqueId(AttributeModifier.java:74) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger.searchExistingAM(AttributeChanger.java:49) ~[weaponmaster-1.11.0.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger.updateAttributes(AttributeChanger.java:60) ~[weaponmaster-1.11.0.jar:?]
+	at weaponmaster-1.11.0.jar/io.github.greatericontop.weaponmaster.dragondescent.AttributeChanger$1.run(AttributeChanger.java:96) ~[weaponmaster-1.11.0.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:51:10] [Async Chat Thread - #1/INFO]: [Not Secure] <aguamoiada> ddssdesa
+[18:51:13] [Server thread/INFO]: robeeert7385 was slain by Zombie
+[18:51:25] [Server thread/INFO]: robeeert7385 issued server command: /tp aguamoiada
+[18:52:22] [Server thread/INFO]: robeeert7385 issued server command: /plugins
+[18:52:48] [Server thread/INFO]: robeeert7385 issued server command: /weaponmaster:assassin robeeert7385
+[18:52:56] [Server thread/INFO]: robeeert7385 issued server command: /assassins-blade robeeert7385
+[18:53:07] [Server thread/INFO]: robeeert7385 issued server command: /assassins-blade give robeeert7385

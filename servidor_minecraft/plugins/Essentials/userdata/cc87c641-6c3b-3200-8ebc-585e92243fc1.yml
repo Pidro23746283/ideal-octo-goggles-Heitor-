@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.175.126.254
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1765133485023
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1765126321104
+  login: 1765131049611
+money: '0'
+last-account-name: robeeert7385
+lastlocation:
+  world: 7d9f3214-28e3-4681-ace5-53676a361b31
+  world-name: world
+  x: -1.2890464457713404
+  y: 71.0
+  z: 1.009628923291624
+  yaw: 134.3603057861328
+  pitch: 47.82648468017578
+logoutlocation:
+  world: 7d9f3214-28e3-4681-ace5-53676a361b31
+  world-name: world
+  x: 0.5
+  y: 69.0
+  z: 0.5
+  yaw: -1.649191975593567
+  pitch: 67.78450775146484
